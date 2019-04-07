@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7f64c7ba-a75d-45a0-9543-abad66e2436c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jdk8Speciality.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,71 +49,66 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-792290999">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5960" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="80">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="93">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
-                <element signature="e#240#241#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/User.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#1371#1372#0" expanded="true" />
+                <element signature="e#1396#1397#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,9 +119,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -137,8 +135,21 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeByAge.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeBySalary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/MyPreDicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/MyFun.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/MyFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wwt/MyFunctin2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java" />
       </list>
     </option>
   </component>
@@ -151,6 +162,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\Maven\repo5" />
         <option name="mavenHome" value="D:/software/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="D:\software\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -177,11 +189,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="68" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -191,55 +203,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wwt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -249,21 +263,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554286434047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554614391147" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="D:/ideaworkspace/tax.assistant" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springcloud2019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -271,6 +286,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wwt" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,8 +303,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="UserFilterTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LambdaTest6.test02">
+    <configuration name="LambdaTest5.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Jdk8Speciality" />
       <extension name="coverage">
         <pattern>
@@ -295,16 +313,91 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.UserFilterTest" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest5.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest5.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaTest6.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest6" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaTest6.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest6" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LambdaTest5.test02" />
+      <item itemvalue="JUnit.LambdaTest5.test03" />
+      <item itemvalue="JUnit.LambdaTest5.test04" />
+      <item itemvalue="JUnit.LambdaTest6.test01" />
+      <item itemvalue="JUnit.LambdaTest6.test02" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserFilterTest.test01" />
+        <item itemvalue="JUnit.LambdaTest6.test02" />
+        <item itemvalue="JUnit.LambdaTest6.test01" />
+        <item itemvalue="JUnit.LambdaTest5.test04" />
+        <item itemvalue="JUnit.LambdaTest5.test03" />
+        <item itemvalue="JUnit.LambdaTest5.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -319,45 +412,91 @@
       <option name="presentableId" value="Default" />
       <updated>1554284338759</updated>
       <workItem from="1554284342209" duration="2090000" />
+      <workItem from="1554515684804" duration="676000" />
+      <workItem from="1554516693494" duration="92000" />
+      <workItem from="1554516825582" duration="13195000" />
+      <workItem from="1554566541240" duration="602000" />
+      <workItem from="1554603423678" duration="5188000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="LambdaTest4_test02 - 2019.04.06 at 21h 11m 02s.xml">
+      <configuration name="LambdaTest4.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest4_test02 - 2019.04.06 at 21h 11m 26s.xml">
+      <configuration name="LambdaTest4.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest5_test01 - 2019.04.07 at 10h 47m 29s.xml">
+      <configuration name="LambdaTest5.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest5_test02 - 2019.04.07 at 10h 55m 00s.xml">
+      <configuration name="LambdaTest5.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest5_test03 - 2019.04.07 at 10h 59m 55s.xml">
+      <configuration name="LambdaTest5.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest5_test03 - 2019.04.07 at 11h 00m 54s.xml">
+      <configuration name="LambdaTest5.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest5_test04 - 2019.04.07 at 11h 07m 11s.xml">
+      <configuration name="LambdaTest5.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest6_test01 - 2019.04.07 at 11h 28m 26s.xml">
+      <configuration name="LambdaTest6.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest6_test02 - 2019.04.07 at 11h 29m 42s.xml">
+      <configuration name="LambdaTest6.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LambdaTest6_test02 - 2019.04.07 at 11h 30m 31s.xml">
+      <configuration name="LambdaTest6.test02" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2090000" />
+    <option name="totallyTimeSpent" value="21843000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3232682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924694" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924694" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32749563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,57 +506,158 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="288">
           <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeByAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state relative-caret-position="140">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeBySalary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="100">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyPreDicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFunctin2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="980">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="100">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding>
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
+            <element signature="e#2313#2314#0" expanded="true" />
+            <element signature="e#2337#2338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1396#1397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -425,9 +665,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Jdk8Speciality</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25172412" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
