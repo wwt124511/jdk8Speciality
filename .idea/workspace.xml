@@ -3,12 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="7f64c7ba-a75d-45a0-9543-abad66e2436c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jdk8Speciality.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/FilterEmployeeByAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeBySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/FilterEmployeeBySalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/MyFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/MyFunctin2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFunctin2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/MyFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wwt/MyPreDicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyPreDicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest6.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,23 +60,25 @@
     <session id="-792290999">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5960" />
+          <entry key="JAVA" value="7177" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -76,19 +86,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="280">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,18 +98,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyPreDicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="22" />
+            <state relative-caret-position="140">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/StreamAPI/StreamAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#1371#1372#0" expanded="true" />
-                <element signature="e#1396#1397#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +144,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -150,6 +175,8 @@
         <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest4.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest01.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest02.java" />
       </list>
     </option>
   </component>
@@ -190,8 +217,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="949" />
     <option name="width" value="980" />
     <option name="height" value="1044" />
   </component>
@@ -242,6 +268,15 @@
               <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wwt" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -259,6 +294,24 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wwt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wwt" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdk8Speciality" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdk8Speciality" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wwt" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -268,7 +321,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554614391147" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554652001845" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -282,13 +335,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.wwt.StreamAPI" />
       <recent name="com.wwt" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.wwt" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wwt.Lambda" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,101 +360,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LambdaTest6.test02">
-    <configuration name="LambdaTest5.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StreamAPITest02.test03">
+    <configuration name="LambdaTest6.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Jdk8Speciality" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wwt.*" />
+          <option name="PATTERN" value="com.wwt.Lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
+      <option name="PACKAGE_NAME" value="com.wwt.Lambda" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.Lambda.LambdaTest6" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaTest5.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamAPITest01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Jdk8Speciality" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wwt.*" />
+          <option name="PATTERN" value="com.wwt.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaTest5.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Jdk8Speciality" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wwt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest5" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaTest6.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Jdk8Speciality" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wwt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest6" />
+      <option name="PACKAGE_NAME" value="com.wwt.StreamAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.StreamAPI.StreamAPITest01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaTest6.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamAPITest02.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Jdk8Speciality" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wwt.*" />
+          <option name="PATTERN" value="com.wwt.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wwt" />
-      <option name="MAIN_CLASS_NAME" value="com.wwt.LambdaTest6" />
+      <option name="PACKAGE_NAME" value="com.wwt.StreamAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.StreamAPI.StreamAPITest02" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest02.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt.StreamAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.StreamAPI.StreamAPITest02" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamAPITest02.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jdk8Speciality" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wwt.StreamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wwt.StreamAPI" />
+      <option name="MAIN_CLASS_NAME" value="com.wwt.StreamAPI.StreamAPITest02" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.LambdaTest5.test02" />
-      <item itemvalue="JUnit.LambdaTest5.test03" />
-      <item itemvalue="JUnit.LambdaTest5.test04" />
-      <item itemvalue="JUnit.LambdaTest6.test01" />
       <item itemvalue="JUnit.LambdaTest6.test02" />
+      <item itemvalue="JUnit.StreamAPITest01.test01" />
+      <item itemvalue="JUnit.StreamAPITest02.test01" />
+      <item itemvalue="JUnit.StreamAPITest02.test02" />
+      <item itemvalue="JUnit.StreamAPITest02.test03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StreamAPITest02.test03" />
+        <item itemvalue="JUnit.StreamAPITest02.test02" />
+        <item itemvalue="JUnit.StreamAPITest02.test01" />
+        <item itemvalue="JUnit.StreamAPITest01.test01" />
         <item itemvalue="JUnit.LambdaTest6.test02" />
-        <item itemvalue="JUnit.LambdaTest6.test01" />
-        <item itemvalue="JUnit.LambdaTest5.test04" />
-        <item itemvalue="JUnit.LambdaTest5.test03" />
-        <item itemvalue="JUnit.LambdaTest5.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -416,44 +473,45 @@
       <workItem from="1554516693494" duration="92000" />
       <workItem from="1554516825582" duration="13195000" />
       <workItem from="1554566541240" duration="602000" />
-      <workItem from="1554603423678" duration="5188000" />
+      <workItem from="1554603423678" duration="5786000" />
+      <workItem from="1554649032525" duration="2961000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LambdaTest4_test02 - 2019.04.06 at 21h 11m 02s.xml">
-      <configuration name="LambdaTest4.test02" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test01 - 2019.04.07 at 23h 29m 18s.xml">
+      <configuration name="StreamAPITest02.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest4_test02 - 2019.04.06 at 21h 11m 26s.xml">
-      <configuration name="LambdaTest4.test02" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test01 - 2019.04.07 at 23h 31m 13s.xml">
+      <configuration name="StreamAPITest02.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest5_test01 - 2019.04.07 at 10h 47m 29s.xml">
-      <configuration name="LambdaTest5.test01" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test02 - 2019.04.07 at 23h 37m 11s.xml">
+      <configuration name="StreamAPITest02.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest5_test02 - 2019.04.07 at 10h 55m 00s.xml">
-      <configuration name="LambdaTest5.test02" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test02 - 2019.04.07 at 23h 37m 26s.xml">
+      <configuration name="StreamAPITest02.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest5_test03 - 2019.04.07 at 10h 59m 55s.xml">
-      <configuration name="LambdaTest5.test03" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test02 - 2019.04.07 at 23h 38m 28s.xml">
+      <configuration name="StreamAPITest02.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest5_test03 - 2019.04.07 at 11h 00m 54s.xml">
-      <configuration name="LambdaTest5.test03" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test03 - 2019.04.07 at 23h 42m 09s.xml">
+      <configuration name="StreamAPITest02.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest5_test04 - 2019.04.07 at 11h 07m 11s.xml">
-      <configuration name="LambdaTest5.test04" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test03 - 2019.04.07 at 23h 44m 27s.xml">
+      <configuration name="StreamAPITest02.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest6_test01 - 2019.04.07 at 11h 28m 26s.xml">
-      <configuration name="LambdaTest6.test01" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test03 - 2019.04.07 at 23h 46m 14s.xml">
+      <configuration name="StreamAPITest02.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest6_test02 - 2019.04.07 at 11h 29m 42s.xml">
-      <configuration name="LambdaTest6.test02" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test03 - 2019.04.07 at 23h 46m 24s.xml">
+      <configuration name="StreamAPITest02.test03" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LambdaTest6_test02 - 2019.04.07 at 11h 30m 31s.xml">
-      <configuration name="LambdaTest6.test02" configurationId="JUnit" />
+    <history-entry file="StreamAPITest02_test03 - 2019.04.07 at 23h 46m 35s.xml">
+      <configuration name="StreamAPITest02.test03" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21843000" />
+    <option name="totallyTimeSpent" value="25402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,10 +523,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <frame x="633" y="0" width="653" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4169329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -476,8 +534,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3232682" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3232682" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39929947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,20 +576,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategy.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/UserStrategyName.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/UserFilterTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeByAge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/FilterEmployeeBySalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -546,116 +590,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyPreDicate.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFun.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/MyFunctin2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="233">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/FilterEmployeeByAge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/FilterEmployeeBySalary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#1703#1704#0" expanded="true" />
-            <element signature="e#1775#1776#0" expanded="true" />
-            <element signature="e#2313#2314#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/Lambda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFunctin2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1396#1397#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/StreamAPI/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/LambdaTest6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/MyPreDicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/StreamAPI/StreamAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="60" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.10/lombok-1.16.10.jar!/lombok/NoArgsConstructor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.10/lombok-1.16.10.jar!/lombok/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/Lambda/LambdaTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wwt/Lambda/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/wwt/StreamAPI/StreamAPITest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
