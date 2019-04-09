@@ -1,4 +1,4 @@
-JDK8特性
+JDK8新特性
 ====
 ## 1. Lambda表达式
 <Tab>Lambda表达式的基础语法：Java8中引入了一个新的操作符 "->" 该操作符成为箭头操作符或Lambda操作符</Tab><br>
