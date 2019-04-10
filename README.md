@@ -73,10 +73,10 @@ boolean test(T t);
 * limit： 截断流，使其元素不超过给定数量
 * skip(n)： 跳过元素，返回一个扔掉了前n个元素的流。若流中元素不足n个，则返回一个空流。与limit(n)互补
 * distinct： 筛选，通过流所生成元素的hashCode()和equals()去除重复元素
-### 2.3 映射<br><br>
+### 2.3 映射
 * map： 
 <br>
-### 2.4 排序<br><br>
+### 2.4 排序
 * sort： 
 <br>
 ### 2.5 查找与匹配<br><br>
